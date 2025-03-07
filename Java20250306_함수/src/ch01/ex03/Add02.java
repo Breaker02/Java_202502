@@ -1,4 +1,4 @@
-package ch01.ex3;
+package ch01.ex03;
 
 /*
  * 2개 값을 입력받아서, 더하는 기능 수해
