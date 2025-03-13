@@ -9,4 +9,16 @@
     <fullyQualifiedTypeName name="ch01.ex03.CarMain"/>
     <fullyQualifiedTypeName name="ch07.sec02.SmartPhone"/>
     <fullyQualifiedTypeName name="ch01.ex02.GrandParent"/>
+    <fullyQualifiedTypeName name="ex01.UniversityStudent"/>
+    <fullyQualifiedTypeName name="java.lang.SuppressWarnings"/>
+    <fullyQualifiedTypeName name="ex02.Person"/>
+    <fullyQualifiedTypeName name="ex02.Student"/>
+    <fullyQualifiedTypeName name="ex02.UniversityStudent"/>
+    <fullyQualifiedTypeName name="java.lang.UnknownError"/>
+    <fullyQualifiedTypeName name="java.lang.StackOverflowError"/>
+    <fullyQualifiedTypeName name="ex03.Student"/>
+    <fullyQualifiedTypeName name="ex03.UniversityStudent"/>
+    <fullyQualifiedTypeName name="ex05.SamsungTV"/>
+    <fullyQualifiedTypeName name="ex06.SmartPhone"/>
+    <fullyQualifiedTypeName name="exam02.Product"/>
 </qualifiedTypeNameHistroy>
