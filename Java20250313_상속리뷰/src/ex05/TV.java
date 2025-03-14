@@ -21,7 +21,7 @@ public abstract class TV {
 	
 	//추상메소드 -> {}가 없다
 
-	abstract void powerOn();.
+	abstract void powerOn();
 0	abstract void powerOff();
 	abstract void volumeUp();
 	abstract void volumeDown();

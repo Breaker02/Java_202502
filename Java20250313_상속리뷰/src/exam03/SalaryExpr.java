@@ -3,15 +3,19 @@ package exam03;
 public class SalaryExpr {
 	int bonus;
 	
-	SalaryExpr(){
+	public SalaryExpr(){
 		this.bonus = 0;
 	}
 	
-	SalaryExpr(int bonus){
+	public SalaryExpr(int bonus){
 		this.bonus = bonus;
 	}
+	
+	int getBonus() {
+		return bonus;
+	}
 
-	public int getSalary(int grade) {
+	int getSalary(int grade) {
 		switch(grade) {
 		case 1:
 			bonus += 100;
@@ -25,6 +29,7 @@ public class SalaryExpr {
 		case 4:
 			bonus += 70;
 			break;
+		default:
 		}
 		return bonus;
 	}
