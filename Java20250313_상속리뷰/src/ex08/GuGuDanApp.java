@@ -1,4 +1,4 @@
-package ex08;
+-package ex08;
 
 public class GuGuDanApp {
 
